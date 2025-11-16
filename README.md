@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Adevan Neves Santos</h1>
-<h3 align="center">Desenvolvedor Android e Backend</h3>
+<h3 align="center">Desenvolvedor de Sistemas Embarcados</h3>
 
-- 🔭 No momento estou trabalhando no projeto ALTAIR tec
+- 🔭 No momento estou trabalhando no SIDIA com sistemas embarcados usando Zephyr RTOS
 
-- 🌱 Atualmente estou aprendendo **Android Embarcado, Spring Boot e desenvolvimento de Jogos com Unity**
+- 🌱 Atualmente estou aprendendo **Android Embarcado, Spring Boot e desenvolvimento de drives para sensores em C**
 
 - 👯 Procuro colaborar com [Aprenda Git](https://github.com/aprenda-git/pull-request)
 
